@@ -1,0 +1,10 @@
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\bin\Release\calcSAT.exe.config
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\bin\Release\calcSAT.exe
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\bin\Release\calcSAT.pdb
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\bin\Release\GoogleMaps.LocationServices.dll
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Release\calcSAT.FormMain.resources
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Release\calcSAT.Properties.Resources.resources
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Release\calcSAT.csproj.GenerateResource.Cache
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Release\calcSAT.csproj.CoreCompileInputs.cache
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Release\calcSAT.exe
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Release\calcSAT.pdb

@@ -1,0 +1,63 @@
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\bin\Debug\calcSAT.exe.config
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\bin\Debug\calcSAT.exe
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\bin\Debug\calcSAT.pdb
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.Properties.Resources.resources
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.csproj.GenerateResource.Cache
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.csproj.CoreCompileInputs.cache
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.exe
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.pdb
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.FormMain.resources
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\obj\Debug\calcSAT.FormMain.resources
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\obj\Debug\calcSAT.Properties.Resources.resources
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\obj\Debug\calcSAT.csproj.GenerateResource.Cache
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\obj\Debug\calcSAT.csproj.CoreCompileInputs.cache
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\obj\Debug\calcSAT.exe
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\obj\Debug\calcSAT.pdb
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\bin\Debug\calcSAT.exe.config
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\bin\Debug\calcSAT.exe
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\bin\Debug\calcSAT.pdb
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\n6100-00-186\Desktop\calcSAT\calcSAT\calcSAT\obj\Debug\calcSAT.csprojResolveAssemblyReference.cache
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\calcSAT.exe.config
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\calcSAT.exe
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\calcSAT.pdb
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.Properties.Resources.resources
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.csproj.GenerateResource.Cache
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.csproj.CoreCompileInputs.cache
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.exe
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.pdb
+C:\Users\n6100-00-186\Desktop\_dev\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\calcSAT.exe.config
+C:\Users\n6100-00-186\Desktop\_dev\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\calcSAT.exe
+C:\Users\n6100-00-186\Desktop\_dev\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\calcSAT.pdb
+C:\Users\n6100-00-186\Desktop\_dev\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\n6100-00-186\Desktop\_dev\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.FormMain.resources
+C:\Users\n6100-00-186\Desktop\_dev\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.Properties.Resources.resources
+C:\Users\n6100-00-186\Desktop\_dev\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.csproj.GenerateResource.Cache
+C:\Users\n6100-00-186\Desktop\_dev\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.csproj.CoreCompileInputs.cache
+C:\Users\n6100-00-186\Desktop\_dev\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.exe
+C:\Users\n6100-00-186\Desktop\_dev\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.pdb
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.FormMain.resources
+C:\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\calcSAT.exe.config
+C:\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\calcSAT.exe
+C:\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\calcSAT.pdb
+C:\_dev\_dipl\calcSAT - reedit\calcSAT\bin\Debug\GoogleMaps.LocationServices.dll
+C:\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.FormMain.resources
+C:\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.Properties.Resources.resources
+C:\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.csproj.GenerateResource.Cache
+C:\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.csproj.CoreCompileInputs.cache
+C:\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.exe
+C:\_dev\_dipl\calcSAT - reedit\calcSAT\obj\Debug\calcSAT.pdb
+C:\Users\ddjanic\Desktop\_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.csprojResolveAssemblyReference.cache
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\bin\Debug\calcSAT.exe.config
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\bin\Debug\calcSAT.exe
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\bin\Debug\calcSAT.pdb
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\bin\Debug\GoogleMaps.LocationServices.dll
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.FormMain.resources
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.Properties.Resources.resources
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.csproj.GenerateResource.cache
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.csproj.CoreCompileInputs.cache
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.csproj.CopyComplete
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.exe
+C:\Users\ddjanic\Desktop\_calcSAT_dev\_dipl\calcSAT\calcSAT\obj\Debug\calcSAT.pdb
